@@ -61,7 +61,7 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
               children: [
                 Image.asset('assets/gpt-robot.png'),
                 const SizedBox(width: 10,),
-                Text('Gemini Gpt', style: Theme.of(context).textTheme.titleLarge,)
+                Text('Sung', style: Theme.of(context).textTheme.titleLarge,)
               ],
             ),
             GestureDetector(
