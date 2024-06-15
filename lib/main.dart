@@ -21,7 +21,7 @@ class MyApp extends ConsumerWidget {
     final themeMode = ref.watch(themeProvider);
 
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Sung',
       theme: lightMode,
       darkTheme: darkMode,
       themeMode: themeMode,

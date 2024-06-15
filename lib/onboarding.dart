@@ -16,7 +16,7 @@ class Onboarding extends StatelessWidget {
             const Column(
               children: [
                 Text(
-                  'You AI Assistant',
+                  'Assistente Virtual',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
@@ -25,7 +25,7 @@ class Onboarding extends StatelessWidget {
                 ),
                 SizedBox(height: 16,),
                 Text(
-                  'Using this software, you can ask you questions and receive articles using artificial intelligence assistant',
+                  'Usando este software você pode fazer questões e artigos, tendo sempre contigo um assistente virtual',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontSize: 16,

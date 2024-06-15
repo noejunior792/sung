@@ -136,7 +136,7 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
                       controller: _controller,
                       style: Theme.of(context).textTheme.titleSmall,
                       decoration: InputDecoration(
-                        hintText: 'Write your message',
+                        hintText: 'Escreva a sua mensagem',
                         hintStyle: Theme.of(context).textTheme.titleSmall!.copyWith(
                           color: Colors.grey
                         ),
