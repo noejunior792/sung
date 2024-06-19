@@ -54,7 +54,7 @@ class Onboarding extends StatelessWidget {
                 child: const Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Text('Continue'),
+                    Text('Continuar'),
                     SizedBox(height: 8,),
                     Icon(Icons.arrow_forward)
                   ],
